@@ -36,7 +36,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_skyline: yes
-          plugin_skyline_frames: 120
+          plugin_skyline_frames: 600
           plugin_skyline_quality: 1
           plugin_skyline_year: current-year
           plugin_wakatime: yes
